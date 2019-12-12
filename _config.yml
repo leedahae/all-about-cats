@@ -1,0 +1,41 @@
+# Site settings
+title: All about cats
+tagline : All information about cats for cat servants
+description:
+url: "https://forcomdal.com"
+author:
+  name: "comdal"
+  email: "dahaezzang80@gmail.com"
+  url: "https://forcomdal.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: all-about-cats
