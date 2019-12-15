@@ -26,7 +26,7 @@ The charming Com with a chubby-bellied likes to knead in my arms, an sharp Dal t
 
 ### the beginning of a cats servant's life
 
-![dal](/blog/img/post/01/01.jpg)
+![dal](..img/post/01/01.jpg)
 
 I just wanted to raise a cat without any hesitation, but there were so many things I didn't know that I just cried when I took the cat to the hospital for the first time. Thinking that I didn't know it must have hurt, I cried more when I saw the details of the card that was paid. I raised the animal for the first time, and I knew that it cost me so much money.
 Raising a life was a way of realizing that you should never start without preparation.
