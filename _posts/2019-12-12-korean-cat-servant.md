@@ -5,7 +5,7 @@ date: 2019-12-12 15:30:00 +09:00
 author: "comdal"
 permalink: forcomdal.com/korean-cat-servant/
 image:
-  feature: cats.jpg
+  feature: 01.jpg
 categories:
   - cat
 tags:
