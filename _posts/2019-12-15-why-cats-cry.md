@@ -36,7 +36,7 @@ Therefore, it is usually better to neutralize before the sexually excited
 
 ### kitten
 
-![cat1](img\post\02\01.jpg)
+![cat1](/blog/img/post/02/01.jpg)
 
 Usually, when a kitten cries, it's just that the house isn't adapted and it's unfamiliar.
 When my cat Dal was a baby, Dal walked one step, cried another, and wept.
@@ -61,7 +61,7 @@ Since crying due to dementia occurs a lot at night, it is recommended to increas
 
 
 
-![cat2](img\post\02\02.jpg)
+![cat2](/blog/img/post/02/02.jpg)
 
 There are many other reasons besides the above. If a cat just cries and doesn't eat properly, it has to go to the hospital. A cat may be sick.(Even if they don't cry, if you just hides, It may also be painful.)
 Before I had a cat, I thought cat wouldn't cry very much, but was crying so many times.
