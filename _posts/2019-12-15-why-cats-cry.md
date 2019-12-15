@@ -5,7 +5,7 @@ date: 2019-12-15 00:30:00 +09:00
 author: "comdal"
 permalink: forcomdal.com/why-cats-cry/
 image:
-  feature: facebook-pixel-youtube-tracking_thumbnail.png
+  feature: 02.jpg
 categories:
   - cat
 tags:
@@ -36,6 +36,8 @@ Therefore, it is usually better to neutralize before the sexually excited
 
 ### kitten
 
+![cat1](img\post\02\01.jpg)
+
 Usually, when a kitten cries, it's just that the house isn't adapted and it's unfamiliar.
 When my cat Dal was a baby, Dal walked one step, cried another, and wept.
 Just as humans solve all communication by crying when they are babies, cats cry a lot when they are babies.
@@ -58,6 +60,8 @@ If you have a somewhat lower understanding and can't keep sleeping or covering y
 Since crying due to dementia occurs a lot at night, it is recommended to increase activity during the daytime so that you can get as much sleep at night as possible.
 
 
+
+![cat2](img\post\02\02.jpg)
 
 There are many other reasons besides the above. If a cat just cries and doesn't eat properly, it has to go to the hospital. A cat may be sick.(Even if they don't cry, if you just hides, It may also be painful.)
 Before I had a cat, I thought cat wouldn't cry very much, but was crying so many times.
