@@ -132,7 +132,8 @@ html, body {
   	display: inline-block;
   }
   img {
-  	
+		max-height: 333px;
+  	margin: 0 auto;
   	display: block;
   }
   h1 {
