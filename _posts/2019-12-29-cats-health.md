@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to check your cat's Health
-date: 2019-12-29 17:35:00 +09:00
+date: 2019-12-29 17:36:00 +09:00
 author: "comdal"
 permalink: forcomdal.com/cats-health/
 image:
@@ -57,7 +57,7 @@ Also, if you are aware of the normal temperature of a cat because of frequent sk
 
 ### weight check
 
-![check4](\img\post\06\04.jpg)
+![check4](\img\post\06\04.png)
 
 If you weigh a cat at home, there are two ways to measure it, first, a cat servant can hold a cat and measure it.
 First, I weigh the cat servant, then I take the cat and weigh it again. And here you can find out the weight of the cat except for your weight.
