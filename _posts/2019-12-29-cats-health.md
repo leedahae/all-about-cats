@@ -14,8 +14,7 @@ tags:
   - healthcheck
   - allaboutcats
   - cats
-description: Do you want to know how to check your cat's health at home? I'll give you a method.
-It will help you and your cat a lot.
+description: Do you want to know how to check your cat's health at home? I'll give you a method. It will help you and your cat a lot.
 ---
 
 
